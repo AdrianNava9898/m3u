@@ -325,6 +325,14 @@ http://200.113.4.75:7210/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",WIN SPORTS
 http://zorrohunter.com:8080/haw5UJfF68/1729172230/46835
 
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg&w=256&q=75" group-title="MOVIES ESTRENOS HD",MINECRAFT 
+https://m5qilv3g2l.premilkyway.com/hls2/01/10323/140zfukhaplj_,l,n,.urlset/index-f1-v1-a1.m3u8?t=WQpP8EcCAuDvTQv5f4ZdNqjYZw2U0Xk93vPlhCjUCfs&s=1748362291&e=129600&f=51617860&srv=ts09ruf2imyzcv&i=0.4&sp=500&p1=ts09ruf2imyzcv&p2=ts09ruf2imyzcv&asn=11888
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fsm91FNDF6OOKU4hT9BDW6EMoyDB.jpg&w=256&q=75" group-title="MOVIES ESTRENOS HD",BLANCA NIEVES
+https://7f12638xuzfg.premilkyway.com/hls2/01/10323/s16rof7lomd7_,l,n,.urlset/index-f1-v1-a1.m3u8?t=uDOgxvDdsi0GbPfDFKt-IXSln9NN_-DSnppSqk0laNU&s=1748362373&e=129600&f=51617790&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=11888
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbTYbNWz4kI1P3GzEVvWZwyZT7Uv.jpg&w=256&q=75" group-title="MOVIES ESTRENOS HD",EXTRATERRITORIAL
+https://x8oi6owwkjoewr.premilkyway.com/hls2/01/10257/ofc3mpaf6a4h_,l,n,.urlset/index-f1-v1-a1.m3u8?t=qzteETL8Ugpso19TOdHE7TIcIZGWS1H6B6vhkHx3QM0&s=1748362735&e=129600&f=51287111&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=11888
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3ZMGC839jsKNAweGeQDBZDmu6ka.jpg&w=256&q=75" group-title="MOVIES ESTRENOS HD",MICKEY 17
+https://cuyyro04xrqrh.premilkyway.com/hls2/01/09600/bntls0ftglhd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=BZUtYz_W5LJ-DwWfY_xs364ojZw_jPIvi9kNK675INE&s=1748362927&e=129600&f=48001033&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=118888
 #EXTINF:-1 tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fz15wy8YqFG8aCAkDQJKR63nxSmd.jpg&w=256&q=75" group-title="MOVIES ESTRENOS HD",EL MONO
 https://x8oi6owwkjoewr.premilkyway.com/hls2/01/09685/8hbdvx3pq8ai_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=EhwnQ688ccVJDL1W8CTEhjuFyyRkDL9aFx1LGLZMNTg&s=1748321238&e=129600&f=48429198&srv=ts09ruf2imyzcv&i=0.4&sp=500&p1=ts09ruf2imyzcv&p2=ts09ruf2imyzcv&asn=11888
 #EXTINF:-1 tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FchIQxgimGbIFnuFsLqpcoTbsH9.jpg&w=256&q=75" group-title="MOVIES ESTRENOS HD" Alarum:,Código Letal
